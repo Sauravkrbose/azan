@@ -1,0 +1,11 @@
+export const TAFSEER = 'TAFSEER';
+export const TRANSLATION = 'TRANSLATION';
+export const THEME = 'THEME';
+export const ADJUSTMENT = 'ADJUSTMENT';
+export const CALCULATION_METHOD = 'CALCULATION_METHOD';
+export const MADHAB = 'MADHAB';
+export const PRAYER = 'PRAYER';
+export const NOTIFICATION = 'NOTIFICATION';
+export const HOME_NOTIFICATION = 'HOME_NOTIFICATION';
+export const PRIVACY_POLICY = 'PRIVACY_POLICY';
+export const APP_INFO = 'APP_INFO';

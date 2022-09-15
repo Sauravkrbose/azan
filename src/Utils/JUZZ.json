@@ -1,0 +1,306 @@
+{
+  "code": 200,
+  "status": "OK",
+  "dataJuz": [
+    {
+      "number": 1,
+      "name": "آلم",
+      "englishName": "Alif Laam Meem",
+      "Start": "Al-Fatiha 1",
+      "End": "Al-Baqarah 141",
+      "From": "1",
+      "To": "141",
+      "Total": "1 - 141"
+    },
+    {
+      "number": 2,
+      "name": "سيقول السفهاء",
+      "englishName": "Sayaqūl",
+      "Start": "Al-Baqarah 142",
+      "End": "Al-Baqarah 252",
+      "From": "142",
+      "To": "252",
+      "Total": "142 - 252"
+    },
+    {
+      "number": 3,
+      "name": "تلك الرسل",
+      "englishName": "Tilka -r-rusul",
+      "Start": "Al-Baqarah 253",
+      "End": "Al-Imran 92",
+      "From": "253",
+      "To": "92",
+      "Total": "253 - 92"
+    },
+    {
+      "number": 4,
+      "name": "لن تنالوا",
+      "englishName": "Lan Tana Lu",
+      "Start": "Al-Imran 93",
+      "End": "An-Nisaa 23",
+      "From": "93",
+      "To": "23",
+      "Total": "93 - 23"
+    },
+    {
+      "number": 5,
+      "name": "والمحصنات",
+      "englishName": "W-al-muḥṣanāt",
+      "Start": "An-Nisaa 24",
+      "End": "An-Nisaa 147",
+      "From": "24",
+      "To": "147",
+      "Total": "24 - 147"
+    },
+    {
+      "number": 6,
+      "name": "لا يحب الله",
+      "englishName": "Lā yuẖibbu-llāh",
+      "Start": "An-Nisaa 148",
+      "End": "Al-Ma’idah 82",
+      "From": "148",
+      "To": "82",
+      "Total": "148 - 82"
+    },
+    {
+      "number": 7,
+      "name": "وإذا سمعوا",
+      "englishName": "Wa ʾidha samiʿū",
+      "Start": "Al-Ma’idah 83",
+      "End": "Al-An’am 110",
+      "From": "83",
+      "To": "110",
+      "Total": "83 - 110"
+    },
+    {
+      "number": 8,
+      "name": "ولو أننا",
+      "englishName": "Wa law ʾannanā",
+      "Start": "Al-An’am 111",
+      "End": "Al-A’raf 87",
+      "From": "111",
+      "To": "87",
+      "Total": "111 - 87"
+    },
+    {
+      "number": 9,
+      "name": "قال الملأ",
+      "englishName": "Qāl al-malā",
+      "Start": "Al-A’raf 88",
+      "End": "Al-AnfAl - 40",
+      "From": "88",
+      "To": "40",
+      "Total": "88 - 40"
+    },
+    {
+      "number": 10,
+      "name": "واعلموا",
+      "englishName": "W-aʿlamū",
+      "Start": "Al-Anfal - 41",
+      "End": "At-Tauba 93",
+      "From": "41",
+      "To": "93",
+      "Total": "41 - 93"
+    },
+    {
+      "number": 11,
+      "name": "يعتذرون",
+      "englishName": "Yaʾtadhirūna",
+      "Start": "At Tauba 94",
+      "End": "Hud 5",
+      "From": "94",
+      "To": "5",
+      "Total": "94 - 5"
+    },
+    {
+      "number": 12,
+      "name": "ومامن دابة",
+      "englishName": "Wa mā min dābbah",
+      "Start": "Hud 6",
+      "End": "Yusuf 52",
+      "From": "6",
+      "To": "52",
+      "Total": "6 - 52"
+    },
+    {
+      "number": 13,
+      "name": "وما أبرئ",
+      "englishName": "Wa mā ʾubarriʾu",
+      "Start": "Yusuf 53",
+      "End": "Al-Hijr 1",
+      "From": "53",
+      "To": "1",
+      "Total": "23 - 1"
+    },
+    {
+      "number": 14,
+      "name": "ربما",
+      "englishName": "Ruba Ma",
+      "Start": "Al-Hijr 2",
+      "End": "An-Nahl 128",
+      "From": "2",
+      "To": "128",
+      "Total": "2 - 128"
+    },
+    {
+      "number": 15,
+      "name": "سبحٰن الذیٓ",
+      "englishName": "Subḥāna -lladhi",
+      "Start": "Al-Israa 1",
+      "End": "Al-Kahf 74",
+      "From": "1",
+      "To": "74",
+      "Total": "1 - 74"
+    },
+    {
+      "number": 16,
+      "name": "قال ألم",
+      "englishName": "Qāla ʾa-lam",
+      "Start": "Al-Kahf 75",
+      "End": "Ta-Ha 135",
+      "From": "75",
+      "To": "135",
+      "Total": "75 - 135"
+    },
+    {
+      "number": 17,
+      "name": "اقترب للناس",
+      "englishName": "Iqtaraba li-n-nās",
+      "Start": "Al-Anbiyaa 1",
+      "End": "Al-Hajj 78",
+      "From": "1",
+      "To": "78",
+      "Total": "1 - 78"
+    },
+    {
+      "number": 18,
+      "name": "قد أفلح",
+      "englishName": "Qad ʾaflaḥa",
+      "Start": "Al-Muminun 1",
+      "End": "Al-Furqan 20",
+      "From": "1",
+      "To": "20",
+      "Total": "1 - 20"
+    },
+    {
+      "number": 19,
+      "name": "وقال الذين",
+      "englishName": "Wa-qāla -lladhīna",
+      "Start": "Al-Furqan 21",
+      "End": "An-Naml 59",
+      "From": "21",
+      "To": "59",
+      "Total": "21 - 59"
+    },
+    {
+      "number": 20,
+      "name": "امن خلق",
+      "englishName": "Amman khalaqa",
+      "Start": "An-Naml 60",
+      "End": "Al-Ankabut 44",
+      "From": "60",
+      "To": "44",
+      "Total": "60 - 44"
+    },
+    {
+      "number": 21,
+      "name": "اتل مآ اوحی",
+      "englishName": "Otlu maa oohiya",
+      "Start": "Al-Ankabut 45",
+      "End": "Al-Ahzab 30",
+      "From": "45",
+      "To": "30",
+      "Total": "45 - 30"
+    },
+    {
+      "number": 22,
+      "name": "ومن يقنت",
+      "englishName": "Wa-man yaqnut",
+      "Start": "Al-Ahzab 31",
+      "End": "Ya-Sin 21",
+      "From": "31",
+      "To": "21",
+      "Total": "31 - 21"
+    },
+    {
+      "number": 23,
+      "name": "ومالی",
+      "englishName": "Wama liya",
+      "Start": "Ya-Sin 22",
+      "End": "Az-Zumar 31",
+      "From": "22",
+      "To": "31",
+      "Total": "22 - 31"
+    },
+    {
+      "number": 24,
+      "name": "فمن أظلم",
+      "englishName": "Fa-man ʾaẓlamu",
+      "Start": "Az-Zumar 32",
+      "End": "Fussilat 46",
+      "From": "32",
+      "To": "46",
+      "Total": "32 - 46"
+    },
+    {
+      "number": 25,
+      "name": "إليه يرد",
+      "englishName": "Ilaihi yuraddu",
+      "Start": "Fussilat 47",
+      "End": "Al-Jathiya 37",
+      "From": "47",
+      "To": "37",
+      "Total": "47 - 37"
+    },
+    {
+      "number": 26,
+      "name": "حـم",
+      "englishName": "Ḥāʾ Mīm",
+      "Start": "Al-Ahqaf 1",
+      "End": "Az-Zariyat 30",
+      "From": "1",
+      "To": "30",
+      "Total": "1 - 30"
+    },
+    {
+      "number": 27,
+      "name": "قال فما خطبكم",
+      "englishName": "Qāla fa-mā khatbukum",
+      "Start": "Az-Zariyat 31",
+      "End": "Al-Hadid 29",
+      "From": "31",
+      "To": "29",
+      "Total": "31 - 29"
+    },
+    {
+      "number": 28,
+      "name": "قد سمع اللہ",
+      "englishName": "Qad samiʿa -llāhu",
+      "Start": "Al-Mujadila 1",
+      "End": "At Tahrim 12",
+      "From": "1",
+      "To": "12",
+      "Total": "1 - 12"
+    },
+    {
+      "number": 29,
+      "name": "تبٰرک الذی",
+      "englishName": "Tabāraka -lladhi",
+      "Start": "Al-Mulk 1",
+      "End": "Al-Mursalat 50",
+      "From": "1",
+      "To": "50",
+      "Total": "1 - 50"
+    },
+    {
+      "number": 30,
+      "name": "عمّ",
+      "englishName": "Amma",
+      "Start": "An Nabaa 1",
+      "End": "An-Nas 6",
+      "From": "1",
+      "To": "60",
+      "Total": "1 - 60"
+    }
+  ]
+}
